@@ -17,6 +17,11 @@ public class Proyectoelizalde {
     public static void main(String[] args) {
         System.out.println("Prueba Repositorio 1 IS Elizalde");
         System.out.println("Base de desarrollo repositorio en la nube");
+        
+        int num1=10;
+        int num2=20;
+        int suma = num1+num2;
+        System.out.println("Suma es :" +suma);
     }
     
 }
